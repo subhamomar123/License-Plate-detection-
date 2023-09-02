@@ -2,9 +2,6 @@
 
 Members - Subham Omar
 
-### How to run :
-https://colab.research.google.com/drive/1kEz8BOgUARqTp_VS5hx6wbns6B6fsle6#scrollTo=p-QyaGtwt2wD
-
 
 ### Sample output of detection:
 ![image](https://user-images.githubusercontent.com/62549297/182034648-d902d66a-3eea-4b23-9188-162e6eb13d1c.png)
